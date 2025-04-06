@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Maravalho</h1>
 <h3 align="center">Web Development student, passionate about technology and innovation.</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucasmaravalho&show_icons=true&theme=radical" alt="stats" width="49%" height="195px"/>
-
 ### 🧠 About Me 
 
 - 🌱 Currently learning: **HTML, CSS, JavaScript, MySQL, and Java**
@@ -39,6 +37,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
