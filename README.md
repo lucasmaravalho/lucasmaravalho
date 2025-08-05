@@ -11,13 +11,9 @@
 ---
 
 ### 📫 How to reach me
-
-<a href="https://www.linkedin.com/in/lucas-maravalho-7458b22bb/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" style="margin-right:10px;">
-</a>
-<a href="mailto:lucasmavalho@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="32" style="margin-left:10px;">
-</a>
+<p align="left">
+<a href="https://www.linkedin.com/in/lucas-maravalho-7458b22bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasmaravalho" height="30" width="40" /></a>
+<a href="https://instagram.com/lucasmaravalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucasmaravalho" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
